@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/singleton/subclass/HotterSingleton.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/singleton/subclass/SingletonTestDrive.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/strategy/Duck.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/singleton/subclass/Singleton.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/strategy/RedHeadDuck.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/strategy/FakeQuack.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/singleton/chocolate/ChocolateBoiler.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/singleton/chocolate/ChocolateController.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/singleton/subclass/CoolerSingleton.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/strategy/QuackBehavior.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/strategy/MiniDuckSimulator.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/strategy/RubberDuck.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/strategy/DecoyDuck.java</file>
+            <file>file:/G:/Locker/NetBeansProject/Software-Design-Pattern/src/strategy/MiniDuckSimulator1.java</file>
+        </group>
+    </open-files>
+</project-private>
